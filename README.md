@@ -9,7 +9,11 @@ This repository contains basic Python programs that I am practicing as part of m
 ### 🔹 String Programs
 - Reverse String  
 - Count Vowels  
-- Palindrome Check (Improved)  
+- Palindrome Check (Improved)
+- ### 🔹 Loop Programs
+- Sum of numbers  
+- Multiplication table  
+- Even number filtering  
 
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
