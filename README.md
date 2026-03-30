@@ -13,7 +13,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - ### 🔹 Loop Programs
 - Sum of numbers  
 - Multiplication table  
-- Even number filtering  
+- Even number filtering
+- ### 🔹 Mini Project
+- Simple Calculator (supports +, -, *, / operations)
+ 
 
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
