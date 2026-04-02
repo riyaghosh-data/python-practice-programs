@@ -16,6 +16,8 @@ This repository contains basic Python programs that I am practicing as part of m
 - Even number filtering
 - ### 🔹 Mini Project
 - Simple Calculator (supports +, -, *, / operations)
+- ### 🔹 Data Analysis Mini Project
+- Student Marks Analysis (average, max, min, pass filtering)
  
 
 ## 🚀 About Me
