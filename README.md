@@ -18,6 +18,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Simple Calculator (supports +, -, *, / operations)
 - ### 🔹 Data Analysis Mini Project
 - Student Marks Analysis (average, max, min, pass filtering)
+- ### 🔹 Improved Data Analysis
+- Structured data using dictionaries  
+- Identified top student  
+- Listed failed students  
  
 
 ## 🚀 About Me
