@@ -21,7 +21,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - ### 🔹 Improved Data Analysis
 - Structured data using dictionaries  
 - Identified top student  
-- Listed failed students  
+- Listed failed students
+- ### 🔹 Pandas Data Analysis
+- Used pandas to analyze CSV data  
+- Calculated average, max, min  
+- Filtered dataset efficiently  
  
 
 ## 🚀 About Me
