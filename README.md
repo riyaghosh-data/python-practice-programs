@@ -25,7 +25,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - ### 🔹 Pandas Data Analysis
 - Used pandas to analyze CSV data  
 - Calculated average, max, min  
-- Filtered dataset efficiently  
+- Filtered dataset efficiently
+- ### 🔹 Data Visualization
+- Created bar chart using matplotlib  
+- Visualized student marks data  
  
 
 ## 🚀 About Me
