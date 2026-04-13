@@ -28,7 +28,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Filtered dataset efficiently
 - ### 🔹 Data Visualization
 - Created bar chart using matplotlib  
-- Visualized student marks data  
+- Visualized student marks data
+- ### 🔹 Advanced Visualization
+- Added average line in graph  
+- Identified top and lowest performers  
+- Combined visualization with insights  
  
 
 ## 🚀 About Me
