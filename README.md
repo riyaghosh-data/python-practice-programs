@@ -32,7 +32,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - ### 🔹 Advanced Visualization
 - Added average line in graph  
 - Identified top and lowest performers  
-- Combined visualization with insights  
+- Combined visualization with insights
+- ### 🔹 Sales Data Project
+- Analyzed product sales data  
+- Identified top-selling product  
+- Visualized sales using bar chart    
  
 
 ## 🚀 About Me
