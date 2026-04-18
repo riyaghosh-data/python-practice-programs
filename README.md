@@ -36,7 +36,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - ### 🔹 Sales Data Project
 - Analyzed product sales data  
 - Identified top-selling product  
-- Visualized sales using bar chart    
+- Visualized sales using bar chart
+- ### 🔹 Mini Dashboard Project
+- Created bar chart and pie chart  
+- Compared product sales visually  
+- Combined multiple insights in one view  
  
 
 ## 🚀 About Me
