@@ -40,7 +40,12 @@ This repository contains basic Python programs that I am practicing as part of m
 - ### 🔹 Mini Dashboard Project
 - Created bar chart and pie chart  
 - Compared product sales visually  
-- Combined multiple insights in one view  
+- Combined multiple insights in one view
+- ### 🔹 Student Performance Project
+- Analyzed marks across multiple subjects  
+- Calculated total and average marks  
+- Identified top-performing student  
+- Visualized performance using bar chart    
  
 
 ## 🚀 About Me
