@@ -45,7 +45,12 @@ This repository contains basic Python programs that I am practicing as part of m
 - Analyzed marks across multiple subjects  
 - Calculated total and average marks  
 - Identified top-performing student  
-- Visualized performance using bar chart    
+- Visualized performance using bar chart
+- ### 🔹 Monthly Sales Dashboard
+- Analyzed monthly sales data
+- Calculated total and average sales
+- Identified best-performing month
+- Visualized sales trends using a line chart   
  
 
 ## 🚀 About Me
