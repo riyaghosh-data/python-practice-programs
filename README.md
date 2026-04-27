@@ -50,7 +50,12 @@ This repository contains basic Python programs that I am practicing as part of m
 - Analyzed monthly sales data
 - Calculated total and average sales
 - Identified best-performing month
-- Visualized sales trends using a line chart   
+- Visualized sales trends using a line chart
+- ### 🔹 Exploratory Data Analysis (EDA)
+- Performed initial data exploration
+- Generated summary statistics
+- Visualized distribution using histogram
+- Understood dataset structure and patterns 
  
 
 ## 🚀 About Me
