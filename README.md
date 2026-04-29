@@ -55,7 +55,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Performed initial data exploration
 - Generated summary statistics
 - Visualized distribution using histogram
-- Understood dataset structure and patterns 
+- Understood dataset structure and patterns
+- ### 🔹 Correlation Analysis
+- Calculated correlation between subjects
+- Identified relationships among variables
+- Visualized correlation matrix
  
 
 ## 🚀 About Me
