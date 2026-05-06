@@ -60,6 +60,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Calculated correlation between subjects
 - Identified relationships among variables
 - Visualized correlation matrix
+- ### 🔹 Group-wise Analysis
+- Grouped data by category (Section)
+- Calculated average marks per group
+- Learned how to analyze segmented data
  
 
 ## 🚀 About Me
