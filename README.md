@@ -64,6 +64,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Grouped data by category (Section)
 - Calculated average marks per group
 - Learned how to analyze segmented data
+- ### 🔹 Data Cleaning Project
+- Detected missing values in dataset
+- Handled null values using mean replacement
+- Learned importance of clean data before analysis
  
 
 ## 🚀 About Me
