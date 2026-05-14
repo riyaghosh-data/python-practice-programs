@@ -68,6 +68,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Detected missing values in dataset
 - Handled null values using mean replacement
 - Learned importance of clean data before analysis
+- ### 🔹 Outlier Detection Project
+- Identified unusual values in sales dataset
+- Used statistical methods for detection
+- Visualized outliers using boxplot
  
 
 ## 🚀 About Me
