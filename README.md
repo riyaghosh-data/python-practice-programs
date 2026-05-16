@@ -72,6 +72,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Identified unusual values in sales dataset
 - Used statistical methods for detection
 - Visualized outliers using boxplot
+- ### 🔹 Feature Engineering Project
+- Created new feature from existing columns
+- Calculated employee total salary
+- Visualized salary distribution
  
 
 ## 🚀 About Me
