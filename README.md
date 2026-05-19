@@ -76,6 +76,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Created new feature from existing columns
 - Calculated employee total salary
 - Visualized salary distribution
+- ### 🔹 Trend Analysis Project
+- Analyzed monthly website traffic
+- Identified highest traffic month
+- Visualized visitor growth trends
  
 
 ## 🚀 About Me
