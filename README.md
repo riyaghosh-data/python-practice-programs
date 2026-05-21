@@ -80,7 +80,10 @@ This repository contains basic Python programs that I am practicing as part of m
 - Analyzed monthly website traffic
 - Identified highest traffic month
 - Visualized visitor growth trends
- 
+ ### 🔹 Comparative Analysis Project
+- Compared category-wise sales across two years
+- Calculated sales growth
+- Visualized comparisons using grouped bar charts
 
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
