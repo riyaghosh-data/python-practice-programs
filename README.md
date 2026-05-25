@@ -84,7 +84,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Compared category-wise sales across two years
 - Calculated sales growth
 - Visualized comparisons using grouped bar charts
-
+### 🔹 Multi-Chart Dashboard Project
+- Compared online and offline sales
+- Calculated total and average sales
+- Created trend and distribution charts
+- Identified best-performing month
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
