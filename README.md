@@ -89,6 +89,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Calculated total and average sales
 - Created trend and distribution charts
 - Identified best-performing month
+- ### 🔹 Customer Purchase Analysis
+- Analyzed customer spending data
+- Grouped purchases by category
+- Identified highest spending category
+- Visualized category-wise spending
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
