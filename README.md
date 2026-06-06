@@ -94,6 +94,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Grouped purchases by category
 - Identified highest spending category
 - Visualized category-wise spending
+- ### 🔹 Sales Forecasting Project
+- Analyzed monthly sales trends
+- Calculated average growth
+- Forecasted next month's sales
+- Visualized actual vs forecasted values
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
