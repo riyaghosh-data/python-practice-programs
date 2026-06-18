@@ -99,6 +99,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Calculated average growth
 - Forecasted next month's sales
 - Visualized actual vs forecasted values
+- ### 🔹 Netflix Dataset Analysis
+- Worked with a real-world dataset
+- Analyzed Movies vs TV Shows
+- Visualized content distribution
+- Practiced data exploration using Pandas
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
