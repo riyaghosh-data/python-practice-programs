@@ -104,6 +104,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Analyzed Movies vs TV Shows
 - Visualized content distribution
 - Practiced data exploration using Pandas
+- ### 🔹 Netflix Insights Project
+- Extracted key insights from Netflix dataset
+- Analyzed content types and ratings
+- Identified top contributing countries
+- Explored release trends
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
