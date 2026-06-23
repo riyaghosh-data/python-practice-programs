@@ -109,6 +109,11 @@ This repository contains basic Python programs that I am practicing as part of m
 - Analyzed content types and ratings
 - Identified top contributing countries
 - Explored release trends
+- ### 🔹 Netflix Visual Dashboard
+- Built dashboard using real Netflix dataset
+- Compared Movies and TV Shows
+- Analyzed top content ratings
+- Combined multiple charts into one view
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
