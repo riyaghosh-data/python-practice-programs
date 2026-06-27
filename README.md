@@ -114,6 +114,15 @@ This repository contains basic Python programs that I am practicing as part of m
 - Compared Movies and TV Shows
 - Analyzed top content ratings
 - Combined multiple charts into one view
+- ## 🏏 IPL Winners Analysis
+
+This project analyzes a sample IPL dataset using Python and Pandas.
+
+### Skills Used
+- Pandas
+- Matplotlib
+- Data Visualization
+- Value Counts
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
