@@ -117,7 +117,13 @@ This repository contains basic Python programs that I am practicing as part of m
 - ## 🏏 IPL Winners Analysis
 
 This project analyzes a sample IPL dataset using Python and Pandas.
+## 🏏 IPL Team Performance Dashboard
 
+### Features
+- Team-wise win analysis
+- Win percentage calculation
+- Bar chart visualization
+- Pie chart distribution
 ### Skills Used
 - Pandas
 - Matplotlib
