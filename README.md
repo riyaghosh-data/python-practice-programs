@@ -129,6 +129,13 @@ This project analyzes a sample IPL dataset using Python and Pandas.
 - Matplotlib
 - Data Visualization
 - Value Counts
+- ## 💼 Employee Salary Analysis Dashboard
+
+### Features
+- Department-wise average salary
+- Employee distribution by department
+- Highest-paid employee analysis
+- Dashboard using Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
