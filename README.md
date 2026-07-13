@@ -136,6 +136,14 @@ This project analyzes a sample IPL dataset using Python and Pandas.
 - Employee distribution by department
 - Highest-paid employee analysis
 - Dashboard using Matplotlib
+- ## 🛒 E-commerce Sales Dashboard
+
+### Features
+- Calculated total revenue
+- Category-wise revenue analysis
+- Identified top-performing product
+- Built dashboard using bar and pie charts
+- Practiced business data analysis with Pandas
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
