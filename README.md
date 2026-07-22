@@ -144,6 +144,13 @@ This project analyzes a sample IPL dataset using Python and Pandas.
 - Identified top-performing product
 - Built dashboard using bar and pie charts
 - Practiced business data analysis with Pandas
+- ## 👥 Customer Segmentation Analysis
+
+### Features
+- Analyzed customer purchasing behavior
+- Created customer segments based on spending
+- Classified customers into High, Medium, and Low Value
+- Visualized customer segment distribution
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
