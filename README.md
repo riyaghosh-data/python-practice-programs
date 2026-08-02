@@ -151,6 +151,29 @@ This project analyzes a sample IPL dataset using Python and Pandas.
 - Created customer segments based on spending
 - Classified customers into High, Medium, and Low Value
 - Visualized customer segment distribution
+- # Student Attendance Analysis Dashboard
+
+## Project Overview
+
+This project analyzes student attendance using Python, Pandas, and Matplotlib.
+
+## Features
+
+- Calculates attendance percentage
+- Department-wise attendance analysis
+- Bar chart visualization
+- Pie chart visualization
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+
+## Files
+
+- student_attendance.csv
+- attendance_dashboard.py
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
