@@ -174,6 +174,23 @@ This project analyzes student attendance using Python, Pandas, and Matplotlib.
 
 - student_attendance.csv
 - attendance_dashboard.py
+- # Library Book Borrowing Analysis
+
+## Overview
+
+This project analyzes library book borrowing patterns using Python.
+
+## Features
+
+- Category-wise book analysis
+- Most borrowed category
+- Data visualization with Matplotlib
+
+## Technologies
+
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
