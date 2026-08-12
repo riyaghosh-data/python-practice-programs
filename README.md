@@ -191,6 +191,18 @@ This project analyzes library book borrowing patterns using Python.
 - Python
 - Pandas
 - Matplotlib
+- ## 🛒 Supermarket Sales Analysis
+
+### Features
+- Calculated product revenue
+- Analyzed revenue by category
+- Identified best-selling product
+- Created sales visualizations
+
+### Technologies
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
