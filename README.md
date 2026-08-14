@@ -203,6 +203,19 @@ This project analyzes library book borrowing patterns using Python.
 - Python
 - Pandas
 - Matplotlib
+- ## 👥 Employee Performance Analysis
+
+### Features
+- Calculated target achievement percentage
+- Classified employees based on target achievement
+- Compared department performance
+- Identified the best-performing employee
+- Created a performance visualization
+
+### Technologies
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
