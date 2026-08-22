@@ -216,6 +216,33 @@ This project analyzes library book borrowing patterns using Python.
 - Python
 - Pandas
 - Matplotlib
+- # E-commerce Order & Delivery Analysis
+
+## Project Overview
+
+This project analyzes e-commerce orders using Python, Pandas, and Matplotlib.
+
+## KPIs
+
+- Total orders
+- Delivered orders
+- Cancelled orders
+- Total revenue
+- Delivery rate
+- Cancellation rate
+- Average delivery time
+
+## Analysis
+
+- Category-wise revenue
+- Order status analysis
+- Delivery performance
+
+## Technologies
+
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
