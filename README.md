@@ -243,6 +243,31 @@ This project analyzes e-commerce orders using Python, Pandas, and Matplotlib.
 - Python
 - Pandas
 - Matplotlib
+- # Sales MIS Dashboard
+
+## Project Overview
+
+This project creates an MIS-style sales report using Python, Pandas, and Matplotlib.
+
+## KPIs
+
+- Total Sales
+- Total Target
+- Total Orders
+- Overall Achievement %
+
+## Analysis
+
+- Region-wise sales
+- Product-wise sales
+- Best-performing region
+- Best-performing product
+
+## Technologies
+
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
