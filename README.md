@@ -268,6 +268,26 @@ This project creates an MIS-style sales report using Python, Pandas, and Matplot
 - Python
 - Pandas
 - Matplotlib
+- # E-commerce Product Performance Analysis
+
+## Project Overview
+
+This project analyzes product sales, revenue, profit, and profit margin using Python.
+
+## Analysis
+
+- Product-wise revenue
+- Product-wise profit
+- Profit margin
+- Category-wise revenue
+- Top revenue product
+- Top profit product
+
+## Technologies
+
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
