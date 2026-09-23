@@ -288,6 +288,25 @@ This project analyzes product sales, revenue, profit, and profit margin using Py
 - Python
 - Pandas
 - Matplotlib
+- # Customer Churn Analysis
+
+## Project Overview
+
+This project analyzes customer churn using Python, Pandas, and Matplotlib.
+
+## Analysis
+
+- Total customers
+- Churned customers
+- Churn rate
+- Churn by subscription plan
+- Average monthly charges
+
+## Technologies
+
+- Python
+- Pandas
+- Matplotlib
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
