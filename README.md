@@ -307,6 +307,43 @@ This project analyzes customer churn using Python, Pandas, and Matplotlib.
 - Python
 - Pandas
 - Matplotlib
+- # Excel Sales MIS Dashboard
+
+## Project Overview
+
+This project is an Excel-based Sales MIS Dashboard created to analyze sales performance and business data.
+
+## Dashboard Includes
+
+- Total Sales
+- Total Target
+- Total Orders
+- Total Returns
+- Average Achievement %
+- Sales by Region
+- Sales by Product
+- Daily Sales Trend
+
+## Tools Used
+
+- Microsoft Excel
+- Excel Formulas
+- Charts
+- MIS Reporting
+
+## Objective
+
+The objective of this project is to practice Excel-based business reporting and understand sales performance through simple data analysis.
+
+## Skills Practiced
+
+- Data organization
+- Excel formulas
+- Percentage calculations
+- Sales analysis
+- Dashboard creation
+- Data visualization
+- MIS reporting
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
