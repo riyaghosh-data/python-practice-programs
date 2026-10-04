@@ -344,6 +344,30 @@ The objective of this project is to practice Excel-based business reporting and 
 - Dashboard creation
 - Data visualization
 - MIS reporting
+- # Inventory Stock Analysis
+
+## Project Overview
+
+This project analyzes inventory data using Python, Pandas, and Matplotlib.
+
+## Analysis
+
+- Total products
+- Total stock
+- Low stock products
+- Inventory value
+- Stock by category
+- Inventory visualization
+
+## Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+
+## Objective
+
+The objective of this project is to understand inventory levels and identify products that may need to be reordered.
 ## 🚀 About Me
 I am currently pursuing BS in Data Science and AI and learning Python, SQL, and Data Analysis.
 
